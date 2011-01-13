@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<symbol  id="Decision" viewBox="-55.435 -38.16 110.87 76.319">
+	<polygon fill="#FFFFFF" stroke="#231F20" points="54.553,0 0,-37.553 -54.553,0 0,37.553 	"/>
+</symbol>
+<symbol  id="On_Page_Reference" viewBox="-23.601 -23.6 47.2 47.198">
+	<path fill="#FFFFFF" stroke="#231F20" d="M23.1,0c0-12.758-10.343-23.1-23.1-23.1c-12.758,0-23.101,10.342-23.101,23.1
+		c0,12.76,10.343,23.099,23.101,23.099C12.757,23.099,23.1,12.76,23.1,0z"/>
+</symbol>
+<symbol  id="Org._Chart_-_Connector" viewBox="-5.694 -17.641 11.389 35.282">
+	<g>
+		<path fill="#231F20" d="M0.999,17.642V-8.501C2.847-7.242,4.052-6.614,5.694-6.55C2.862-9.415,1.388-13.14,0-17.641
+			C-1.327-13.14-2.948-9.579-5.694-6.55c1.785-0.193,2.863-0.716,4.828-1.99v26.182H0.999z"/>
+	</g>
+</symbol>
+<symbol  id="Org._Chart_-_Executive" viewBox="-73.567 -38.934 147.134 77.867">
+	<g>
+		<polygon fill="#231F20" points="73.567,-38.934 -69.067,-38.934 -69.067,34.768 73.567,34.768 		"/>
+		<polygon fill="#FFFFFF" stroke="#231F20" points="69.567,-35.267 -73.067,-35.267 -73.067,38.434 69.567,38.434 		"/>
+		<polygon fill="#FFFFFF" stroke="#231F20" stroke-width="0.5" points="66.083,-31.916 -69.583,-31.916 -69.583,35.084 
+			66.083,35.084 		"/>
+	</g>
+</symbol>
+<symbol  id="Org._Chart_-_Manager" viewBox="-54.702 -28.506 109.403 57.012">
+	<g>
+		<polygon fill="#FFFFFF" stroke="#231F20" points="54.201,-28.006 -54.202,-28.006 -54.202,28.006 54.201,28.006 		"/>
+		<polygon fill="#FFFFFF" stroke="#231F20" stroke-width="0.5" points="51.553,-25.46 -51.554,-25.46 -51.554,25.46 51.553,25.46 		
+			"/>
+	</g>
+</symbol>
+<symbol  id="Terminator" viewBox="-48.019 -20.037 96.039 40.073">
+	<path fill="#FFFFFF" stroke="#231F20" d="M-30.618-19.537c0,0-16.901,2.139-16.901,19.245c0,17.107,16.901,19.828,16.901,19.828
+		h61.235c0,0,16.902-2.138,16.902-19.245c0-17.106-16.902-19.828-16.902-19.828H-30.618z"/>
+</symbol>
+<use xlink:href="#Org._Chart_-_Executive"  width="147.134" height="77.867" x="-73.567" y="-38.934" transform="matrix(1 0 0 -0.7446 188.9609 64.7612)" overflow="visible"/>
+<use xlink:href="#On_Page_Reference"  width="47.2" height="47.198" x="-23.601" y="-23.6" transform="matrix(1 0 0 -1 49.6753 34.8228)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Manager"  width="109.403" height="57.012" x="-54.702" y="-28.506" transform="matrix(1 0 0 -1 190.7471 143.752)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Manager"  width="109.403" height="57.012" x="-54.702" y="-28.506" transform="matrix(1 0 0 -1 190.5522 265.2104)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Manager"  width="109.403" height="57.012" x="-54.702" y="-28.506" transform="matrix(1 0 0 -1 190.7471 350.3301)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Manager"  width="109.403" height="57.012" x="-54.702" y="-28.506" transform="matrix(1 0 0 -1 188.9614 435.8633)" overflow="visible"/>
+<use xlink:href="#Terminator"  width="96.039" height="40.073" x="-48.019" y="-20.037" transform="matrix(1 0 0 -1 188.9609 556.0488)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.6092 190.7471 104.499)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1.192488e-08 1 0.8304 -9.902589e-09 245.4478 183.8823)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(-1.248608e-08 -1.0471 -0.8695 1.036862e-08 247.1895 200.6113)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.7967 188.9609 307.7705)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.7967 187.7451 392.8906)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.7966 190.5522 186.5557)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.7966 190.5527 222.1211)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.4017 187.1753 471.4551)" overflow="visible"/>
+<use xlink:href="#Org._Chart_-_Connector"  width="11.389" height="35.282" x="-5.694" y="-17.641" transform="matrix(1 0 0 -0.2009 187.7451 505.2656)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 161.5796 65.7754)" font-family="'MyriadPro-Regular'" font-size="12">Lag ny Database</text>
+<text transform="matrix(1 0 0 1 156.7603 262.272)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Klikk på Home </tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">( startsiden)</tspan></text>
+<text transform="matrix(1 0 0 1 143.6514 353.8574)" font-family="'MyriadPro-Regular'" font-size="12">Lag ny EER modell</text>
+<use xlink:href="#Decision"  width="110.87" height="76.319" x="-55.435" y="-38.16" transform="matrix(0.6862 0 0 -0.369 190.5522 200.6113)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 182.5762 203.1865)" font-family="'MyriadPro-Regular'" font-size="12">OK?</text>
+<text transform="matrix(1 0 0 1 205.2432 222.5205)" font-family="'MyriadPro-Regular'" font-size="12">JA</text>
+<text transform="matrix(0.9275 0 0 1 143.6514 423.7441)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Dobbeltklikk på</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">mydb og skriv nytt</tspan><tspan x="0" y="28.8" font-family="'MyriadPro-Regular'" font-size="12">navn på databasen</tspan></text>
+<text transform="matrix(1 0 0 1 171.959 556.0488)" font-family="'MyriadPro-Regular'" font-size="12">Ferdig</text>
+<text transform="matrix(0.9472 0 0 1 42.0469 40.5308)" font-family="'MyriadPro-Regular'" font-size="26.1306">2</text>
+<text transform="matrix(1 0 0 1 291.6523 37.3716)" font-family="'MyriadPro-Regular'" font-size="12">Dette gjør du flere ganger</text>
+<text transform="matrix(1 0 0 1 150.1724 139.4702)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Dobbeltklikk på</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">koblingen din</tspan></text>
+<text transform="matrix(1 0 0 1 323.02 124.9009)" font-family="'MyriadPro-Regular'" font-size="12">Se ark </text>
+<use xlink:href="#On_Page_Reference"  width="47.2" height="47.198" x="-23.601" y="-23.6" transform="matrix(0.732 0 0 -0.732 380.6797 121.3784)" overflow="visible"/>
+<use xlink:href="#On_Page_Reference"  width="47.2" height="47.198" x="-23.601" y="-23.6" transform="matrix(0.4911 0 0 -0.4911 187.7456 490.1318)" overflow="visible"/>
+<use xlink:href="#On_Page_Reference"  width="47.2" height="47.198" x="-23.601" y="-23.6" transform="matrix(0.4911 0 0 -0.4911 187.1758 520.2646)" overflow="visible"/>
+<text transform="matrix(1 0 0 1 375.9844 125.3921)" font-family="'MyriadPro-Regular'" font-size="12">1</text>
+<text transform="matrix(1 0 0 1 256.1323 214.9668)" font-family="'MyriadPro-Regular'" font-size="12">Nei</text>
+<text transform="matrix(1 0 0 1 283.9473 181.854)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Sjekk passord og prøv igjen</tspan><tspan x="0" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">eller snakk med audun</tspan></text>
+<text transform="matrix(1 0 0 1 185.2715 493.1123)" font-family="'MyriadPro-Regular'" font-size="12">4</text>
+<text transform="matrix(1 0 0 1 184.2666 523.583)" font-family="'MyriadPro-Regular'" font-size="12">5</text>
+<text transform="matrix(1 0 0 1 268.0527 487.1523)" font-family="'MyriadPro-Regular'" font-size="12">Se ark 4 for å lage/redigere tabeller</text>
+<text transform="matrix(1 0 0 1 269.3774 517.6152)" font-family="'MyriadPro-Regular'" font-size="12">Se ark 5 for å sende databasen til serveren.</text>
+</svg>
